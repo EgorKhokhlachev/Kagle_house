@@ -1,2 +1,2 @@
-# Kagle_house
+# Kaggle_house
 prediction_cost
